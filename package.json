@@ -1,0 +1,13 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "first node.js project using express and rest-api",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
