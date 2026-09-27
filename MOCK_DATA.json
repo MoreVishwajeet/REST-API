@@ -72,6 +72,14 @@
         "job_title": "Nuclear Power Engineer"
     },
     {
+        "id": 10,
+        "first_name": "Rohit",
+        "last_name": "Basude",
+        "email": "rohit0906@gmail.com",
+        "gender": "Male",
+        "job_title": "Web Application Dev"
+    },
+    {
         "id": 11,
         "first_name": "Walther",
         "last_name": "Karp",
@@ -7984,14 +7992,6 @@
         "job_title": "Executive Secretary"
     },
     {
-        "id": 1000,
-        "first_name": "Rhea",
-        "last_name": "Ockendon",
-        "email": "rockendonrr@discuz.net",
-        "gender": "Bigender",
-        "job_title": "Speech Pathologist"
-    },
-    {
         "id": 1001,
         "first_name": "Vishwajeet",
         "last_name": "More",
@@ -8001,10 +8001,18 @@
     },
     {
         "id": 1002,
-        "first_name": "Aditya",
+        "first_name": "Sanika",
         "last_name": "More",
-        "email": "moreaditya0906@gmail.com",
+        "email": "moresanika0906@gmail.com",
+        "gender": "female",
+        "job_title": "Web Design"
+    },
+    {
+        "id": 1003,
+        "first_name": "Rohan",
+        "last_name": "Dadgade",
+        "email": "rohit0906@gmail.com",
         "gender": "Male",
-        "job_title": "Data Scientist"
+        "job_title": "System Design"
     }
 ]
