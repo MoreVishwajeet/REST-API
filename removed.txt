@@ -1,0 +1,19 @@
+const { brotliCompressSync } = require('zlib');
+const { error } = require('console');
+const { type } = require('os');
+
+
+
+
+
+
+
+router.get('/', async(req, res) => {
+    const dbAllUsers = await User.find({});
+    const html = `
+        <ul>
+            ${dbAllUsers.map(user => `<li>${user.first_name} - ${user.email}</li>`).join("")}
+        </ul>
+    `;
+    res.send(html);
+});
